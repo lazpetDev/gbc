@@ -1,0 +1,15 @@
+{
+  "name": "gbs",
+  "version": "1.0.0",
+  "description": "the website for Glim bible school",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "remote add origin https://github.com/lazpetDev/gbc.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LAZPET",
+  "license": "ISC"
+}
